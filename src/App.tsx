@@ -1,5 +1,5 @@
 import React from 'react';
-import { Github, Linkedin, Mail, ExternalLink, Calendar, Briefcase, Code, Award, BookOpen, Server, Database, Terminal } from 'lucide-react';
+import { Github, Linkedin, Mail, ExternalLink, Calendar, Briefcase, Code, Award, BookOpen, Terminal } from 'lucide-react';
 
 // Components
 const SocialLink = ({ href, children }: { href: string; children: React.ReactNode }) => (
